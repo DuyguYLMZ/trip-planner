@@ -1,0 +1,16 @@
+{
+  "resourceName": "s3bf9100ad",
+  "policyUUID": "bf9100ad",
+  "bucketName": "amplifytripsplannerf12cd893738c404abce2cf8b0545",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Trigger282b7f41",
+  "groupAccess": {}
+}
